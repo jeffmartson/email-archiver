@@ -3,3 +3,4 @@ cryptography
 python-dateutil
 python-dotenv
 PyJWT
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
